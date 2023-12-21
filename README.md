@@ -8,3 +8,5 @@ pip3 install "uvicorn[standard]"
 
 uvicorn main:app --reload
 ```
+
+[More doc is here](doc.md)
